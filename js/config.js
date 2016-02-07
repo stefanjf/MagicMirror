@@ -9,11 +9,11 @@ var config = {
         //change weather params here:
         //units: metric or imperial
         params: {
-            q: 'Baarn,Netherlands',
-            units: 'metric',
+            q: 'Fort Walton Beach, Florida',
+            units: 'imperial',
             // if you want a different lang for the weather that what is set above, change it here
-            lang: 'nl',
-            APPID: 'YOUR_FREE_OPENWEATHER_API_KEY'
+            lang: 'en',
+            APPID: '8f5ae13462ff04aa91c55d28f19c869c'
         }
     },
     compliments: {
@@ -41,7 +41,7 @@ var config = {
 		defaultSymbol: 'calendar', // Fontawsome Symbol see http://fontawesome.io/cheatsheet/
         urls: [
 		{
-			symbol: 'calendar-plus-o', 
+			symbol: 'calendar-plus-o',
 			url: 'https://p01-calendarws.icloud.com/ca/subscribe/1/n6x7Farxpt7m9S8bHg1TGArSj7J6kanm_2KEoJPL5YIAk3y70FpRo4GyWwO-6QfHSY5mXtHcRGVxYZUf7U3HPDOTG5x0qYnno1Zr_VuKH2M'
 		},
 		{
